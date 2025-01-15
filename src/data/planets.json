@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Celaeno",
+        "texture": "https://i.ibb.co/rcQPMXG/celaeno-rock.jpg",
+        "diameter": 100000,
+        "position": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "Scylla",
+        "texture": "https://i.ibb.co/dpB2Bp3/moon-rock.jpg",
+        "diameter": 40000,
+        "position": [
+            200000,
+            0,
+            -250000
+        ]
+    },
+    {
+        "name": "Cordovan",
+        "texture": "https://i.ibb.co/k0ftHNk/thanatos-soil.jpg",
+        "diameter": 120000,
+        "position": [
+            5000000,
+            0,
+            -10000000
+        ]
+    }
+]
