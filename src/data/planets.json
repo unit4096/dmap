@@ -4,19 +4,19 @@
         "texture": "https://i.ibb.co/rcQPMXG/celaeno-rock.jpg",
         "diameter": 100000,
         "position": [
-            0,
-            0,
-            0
+            -5315586.82,
+            -5669540.38,
+            -7868469.26 
         ]
     },
     {
-        "name": "Scylla",
+        "name": "Exolia",
         "texture": "https://i.ibb.co/dpB2Bp3/moon-rock.jpg",
-        "diameter": 40000,
+        "diameter": 100000,
         "position": [
-            200000,
-            0,
-            -250000
+            277870.84,
+            -2456913.34,
+            395662.45
         ]
     },
     {
@@ -24,9 +24,9 @@
         "texture": "https://i.ibb.co/k0ftHNk/thanatos-soil.jpg",
         "diameter": 120000,
         "position": [
-            5000000,
-            0,
-            -10000000
+            4924088.04,
+            -4895086.04,
+            -8876224.77
         ]
     }
 ]
