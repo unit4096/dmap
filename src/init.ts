@@ -1,6 +1,7 @@
 import scene from './globals/scene'
 import camera from './globals/camera'
 import renderer from './globals/renderer'
+import overlayRenderer from './globals/overlay.renderer'
 import controls from './globals/controls'
 import grid from './globals/grid'
 import lights from './globals/lights'
@@ -23,6 +24,7 @@ function onWindowResize() {
     camera.updateProjectionMatrix()
 
     renderer.setSize(window.innerWidth, window.innerHeight)
+    overlayRenderer.setSize(window.innerWidth, window.innerHeight)
 }
 
 const clock = new Clock()
@@ -36,4 +38,5 @@ function animate() {
 
 function render() {
     renderer.render(scene, camera)
+    overlayRenderer.render(scene, camera)
 }
